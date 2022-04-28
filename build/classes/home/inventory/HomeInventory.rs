@@ -1,0 +1,4 @@
+home.inventory.PhotoPanel
+homeinventory.HomeInventory
+home.inventory.HomeInventory
+home.inventory.InventoryDocument
